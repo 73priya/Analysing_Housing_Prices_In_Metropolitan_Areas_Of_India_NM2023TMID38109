@@ -1,7 +1,6 @@
 # Analysing_Housing_Prices_In_Metropolitan_Areas_Of_India_NM2023TMID38109
 
-DASHBOARD 1 PUBLIC LINK - https://public.tableau.com/views/Dashboard1_16972445239570/Dash
-board1?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link
+DASHBOARD 1 PUBLIC LINK - https://public.tableau.com/views/Dashboard1_16972445239570/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 DASHBOARD 2 PUBLIC LINK - https://public.tableau.com/views/Dashboard2_16972447219300/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
